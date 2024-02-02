@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280604175227",
+    "project_id": "csc490-senior-project",
+    "storage_bucket": "csc490-senior-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280604175227:android:d194abd90c750490e26bde",
+        "android_client_info": {
+          "package_name": "com.company.csc490seniorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBym5W9YpkDlwnyPDfElaQKxToM9SLhRWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280604175227:android:13270830d842ea7ae26bde",
+        "android_client_info": {
+          "package_name": "com.example.csc490seniorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBym5W9YpkDlwnyPDfElaQKxToM9SLhRWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
