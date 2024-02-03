@@ -12,7 +12,7 @@ public class OpenAIRequest {
     // URL for OpenAI's API for completions
     private static final String OPENAI_URL = "https://api.openai.com/v1/completions";
     // OpenAI key
-    private static final String API_KEY = "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"; // Replace with your actual API key
+    private static final String API_KEY = "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"; 
 
     /**
      * This method sends a POST request to the API with a certain prompt
